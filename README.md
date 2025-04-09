@@ -44,7 +44,7 @@ The working version of the website:
 12. **Link to My Commits on GitHub**  
     [My GitHub Commits](https://github.com/OnlineReversation/seatselect/commits/main/?author=GannaUK)
 
-13. **Screenshot of the Website Scheme with Sprint Breakdown in Figma**  
-    ![Figma Sprint Breakdown](https://github.com/GannaUK/seatselect-screenshots/blob/main/Screenshot_10.png)
+13. **Screenshot of My Process for Creating the Website Scheme with Sprint Breakdown in Figma**  
+    ![Figma Website Sprint Breakdown](https://github.com/GannaUK/seatselect-screenshots/blob/main/Screenshot_10.png)
 
 
